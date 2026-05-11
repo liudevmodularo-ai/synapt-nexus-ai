@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base theme — Compose handles UI theming, this is just the window -->
+    <style name="Theme.SynaptNexus" parent="android:Theme.Material.NoTitleBar">
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="android:statusBarColor">#0A0E1A</item>
+        <item name="android:navigationBarColor">#111827</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+    </style>
+</resources>

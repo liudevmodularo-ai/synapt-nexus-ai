@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Extracted from the Synapt icon gradient (purple #6B5FD4 → #8B52C8) -->
+    <color name="ic_launcher_background">#6B5FD4</color>
+
+    <!-- Brand palette -->
+    <color name="synapt_purple">#6C63FF</color>
+    <color name="synapt_cyan">#00D4FF</color>
+    <color name="synapt_dark">#0A0E1A</color>
+    <color name="synapt_card">#111827</color>
+    <color name="synapt_pink">#FF4081</color>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Synapt Nexus AI</string>
+    <string name="notification_channel_name">Synapt Nexus Hub</string>
+    <string name="notification_channel_desc">Status do hub de IA local</string>
+    <string name="hub_online">Hub Online</string>
+    <string name="hub_offline">Hub Offline</string>
+    <string name="mesh_connected">Mesh Neural Conectada</string>
+    <string name="mesh_disconnected">Sem conexão à Mesh</string>
+    <string name="model_loading">Carregando modelo…</string>
+    <string name="model_loaded">Modelo carregado</string>
+    <string name="thermal_normal">Temperatura Normal</string>
+    <string name="thermal_reduced">Throttling Térmico</string>
+    <string name="thermal_safe">Pausa Térmica</string>
+    <string name="agent_hint">Mensagem para Synapt…</string>
+    <string name="pairing_nfc">Aproxime os dispositivos</string>
+    <string name="pairing_qr">Escaneie o QR Code</string>
+    <string name="pairing_wifidirect">Buscando dispositivos Wi-Fi Direct…</string>
+</resources>
